@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -8,8 +8,13 @@
 <body>
     <main class="container">
         <section class="texto">
-            <h1>Eleve seu negócio digital</h1>
-            <span class="destaque"> </span>
+            <h1>Eleve seu negócio digital <span class="destaque"> com um Front-end de qualidade!</span>
+        </h1>
+        <p>Olá! Sou Joana Santos, desenvolvedora Front-end com especialidade em React,HTML e CSS. Ajudo em pequenos negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
+        <div>
+            <a href="#">Instagram</a>
+            <a href="#">GitHub</a>
+        </div>
         </section>
     </main>
 </body>
