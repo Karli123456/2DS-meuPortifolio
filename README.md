@@ -16,6 +16,7 @@
             <a href="#">GitHub</a>
         </div>
         </section>
+         <img src="perfil.png" alt="">
     </main>
 </body>
 </html>
